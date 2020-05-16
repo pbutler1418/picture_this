@@ -27,7 +27,7 @@ gem 'jbuilder', '~> 2.7'
 # postgreSQL
 gem 'pg'
 
-gem 'bootstrap', '~> 4.1.1'
+gem 'bootstrap', '~> 4.3.1'
 
 gem 'jquery-rails'
 
